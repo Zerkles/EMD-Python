@@ -131,3 +131,6 @@ dmypy.json
 *.csv
 *.tsv
 .idea/
+GoogleNews-vectors-negative300.bin.gz
+/Project/text-classification-using-word2vec.ipynb
+/Project/main.ipynb
